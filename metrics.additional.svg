@@ -835,11 +835,11 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="280.9054825673664" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="280.91134270241974" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="280.9054825673664" y="0" width="178.62639681942375" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="280.91134270241974" y="0" width="178.62055200170147" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="459.53187938679014" y="0" width="0.46812061320986237" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="459.53189470412116" y="0" width="0.46810529587880173" height="8" fill="#89e051"/>
         
       </svg>
       <div class="field center horizontal-wrap fill-width">
