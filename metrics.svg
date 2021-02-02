@@ -364,6 +364,11 @@
     font-size: 7px;
   }
 
+  .chart-bars .entry .empty {
+    width: 100%;
+    text-align: center;
+  }
+
   .chart-bars .bar {
     width: 7px;
     background-color: var(--color-calendar-graph-day-bg);
@@ -373,7 +378,6 @@
 
   .chart-bars.horizontal {
     flex-direction: column;
-    align-items: space-between;
     height: 100%;
   }
 
@@ -386,7 +390,10 @@
   .chart-bars.horizontal .entry .name {
     flex-shrink: 0;
     text-align: right;
-    min-width: 30%;
+    width: 34%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .chart-bars .entry .bottom {
@@ -1854,7 +1861,7 @@
       <section>
         <div class="field error">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/></svg>
-          API returned 500 (FAILED_DOCUMENT_REQUEST)
+          API returned 429
         </div>
       </section>
     </div>
@@ -1896,6 +1903,8 @@
 
 
 
+      
+        
       
 
       
