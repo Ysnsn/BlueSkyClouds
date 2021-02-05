@@ -275,8 +275,9 @@
   .track .name {
     font-size: 14px;
     line-height: 14px;
+    font-weight: 600;
   }
-  .track .artist {
+  .track .artist, .track .played-at {
     font-size: 12px;
     color: #666666;
   }
@@ -952,11 +953,11 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="319.0557326997181" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="316.9740051658604" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="319.0557326997181" y="0" width="140.5039580435077" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="316.9740051658604" y="0" width="142.57918226991777" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="459.5596907432258" y="0" width="0.44030925677422533" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="459.5531874357781" y="0" width="0.4468125642218884" height="8" fill="#89e051"/>
         
       </svg>
       
