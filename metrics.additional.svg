@@ -954,11 +954,11 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="316.9740051658604" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="315.9959522994053" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="316.9740051658604" y="0" width="142.57918226991777" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="315.9959522994053" y="0" width="143.5586138182271" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="459.5531874357781" y="0" width="0.4468125642218884" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="459.5545661176324" y="0" width="0.4454338823675935" height="8" fill="#89e051"/>
         
       </svg>
       
