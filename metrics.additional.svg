@@ -1047,11 +1047,11 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="315.89982600049717" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="316.03983381828937" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="315.89982600049717" y="0" width="143.65566741237882" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="316.03983381828937" y="0" width="143.5149610219864" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="459.555493412876" y="0" width="0.4445065871240368" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="459.55479484027575" y="0" width="0.4452051597242753" height="8" fill="#89e051"/>
         
       </svg>
       
