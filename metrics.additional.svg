@@ -1232,11 +1232,11 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="314.91222161668986" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="315.0009493884101" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="314.91222161668986" y="0" width="144.6497743541385" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="315.0009493884101" y="0" width="144.56092317303984" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="459.5619959708283" y="0" width="0.43800402917169295" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="459.56187256145" y="0" width="0.4381274385500695" height="8" fill="#89e051"/>
         
       </svg>
       
