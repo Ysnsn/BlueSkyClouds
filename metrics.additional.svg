@@ -1269,11 +1269,11 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="305.90691573997793" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="305.68054160400857" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="305.90691573997793" y="0" width="153.66760549975763" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="305.68054160400857" y="0" width="153.8942944942077" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="459.5745212397356" y="0" width="0.42547876026445947" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="459.5748360982163" y="0" width="0.4251639017837507" height="8" fill="#89e051"/>
         
       </svg>
       
