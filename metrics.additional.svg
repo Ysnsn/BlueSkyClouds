@@ -1220,8 +1220,8 @@
               22
             </div>
                     <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               23
             </div>
                 </div>
@@ -1261,8 +1261,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">19</span>
-                <div class="bar" style="height: 38px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">20</span>
+                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1272,13 +1272,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 67.392%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 67.512%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">84%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 12.416%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">16%</span>
+                            <div class="bar" style="width: 12.304000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">15%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Squirrel</span>
@@ -1488,9 +1488,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="321.9594319792108" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="321.9594319792108" y="0" width="137.73433854347277" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.6937705226836" y="0" width="0.3062294773164143" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="321.9659323441527" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="321.9659323441527" y="0" width="137.72785259895375" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.6937849431064" y="0" width="0.3062150568935846" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
