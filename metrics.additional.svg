@@ -1331,23 +1331,8 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 30.16%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">38%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">HTML</span>
-                            <div class="bar" style="width: 25.503999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">32%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Squirrel</span>
-                            <div class="bar" style="width: 24.056%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">30%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Python</span>
-                            <div class="bar" style="width: 0.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">0%</span>
+                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">100%</span>
                         </div>
                     </div>
                 </section>
