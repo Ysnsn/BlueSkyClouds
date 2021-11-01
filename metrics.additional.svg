@@ -1512,12 +1512,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">SourcePawn</span>
-                            <div class="bar" style="width: 51.456485330559204%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 51.45620670035811%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">64%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Assembly</span>
-                            <div class="bar" style="width: 28.543514669440793%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 28.54379329964189%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">36%</span>
                         </div>
                     </div>
