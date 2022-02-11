@@ -186,27 +186,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">PHP</span>
-                            <div class="bar" style="width: 39.76588021778584%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">50%</span>
+                            <div class="bar" style="width: 53.822156718251044%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">67%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 30.235934664246823%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">38%</span>
+                            <div class="bar" style="width: 12.645541635961681%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">16%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 8.264972776769511%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">10%</span>
+                            <div class="bar" style="width: 11.1864406779661%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">14%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 1.7132486388384756%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">2%</span>
+                            <div class="bar" style="width: 2.318840579710145%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Hack</span>
-                            <div class="bar" style="width: 0.019963702359346643%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.02702038811102923%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
