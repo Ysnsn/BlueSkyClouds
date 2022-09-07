@@ -187,12 +187,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 47.33693042176333%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 47.0493017953833%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">59%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Squirrel</span>
-                                <div class="bar" style="width: 23.246984378089778%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 23.451695639783413%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">29%</span>
                             </div>
                         </div>
